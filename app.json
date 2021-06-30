@@ -11,9 +11,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/garima-rathore/HellBot/",
-  "website": "https://github.com/garima-rathore/HellBot/",
-  "success_url": "@shinchan_the_h4ch3r",
+  "repository": "https://github.com/garima-rathore/PoisonBot/",
+  "website": "https://github.com/garima-rathore/PoisonBot/",
+  "success_url": "https://t.me/shinchan_the_h4ch3r",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
