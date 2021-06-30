@@ -13,7 +13,7 @@
   ],
   "repository": "https://github.com/garima-rathore/HellBot/",
   "website": "https://github.com/garima-rathore/HellBot/",
-  "success_url": "https://t.me/The_HellBot",
+  "success_url": "@shinchan_the_h4ch3r",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
