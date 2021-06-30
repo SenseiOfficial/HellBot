@@ -1,7 +1,7 @@
 {
-  "name": "Hêllẞø†",
-  "description": "Hêllẞø† is one of the Best UserBot for Telegram. Known for its Smoothness, Design, Support.",
-  "logo": "https://telegra.ph/file/7decf235312af8536e9aa.jpg ",
+  "name": "☠️ρøıƨøп ʙᴏᴛ☠️",
+  "description": "☠️ρøıƨøп ʙᴏᴛ☠️ is one of the Best UserBot for Telegram. Known for its Smoothness, Design, Support.",
+  "logo": "https://telegra.ph/file/04cdefe5ed7732a67eaee.jpg ",
     "keywords": [
     "telegram",
     "userbot",
@@ -11,8 +11,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/The-HellBot/HellBot/",
-  "website": "https://github.com/The-HellBot/",
+  "repository": "https://github.com/garima-rathore/HellBot/",
+  "website": "https://github.com/garima-rathore/HellBot/",
   "success_url": "https://t.me/The_HellBot",
   "env": {
     "ENV": {
@@ -21,7 +21,7 @@
     },
     "YOUR_NAME": {
       "description": "Fill Your Telegram Name. Default Value is Hêll",
-      "value": "『ℌєℓℓ』",
+      "value": "『ρøıƨøп』",
       "required": false
     },
     "ALIVE_MSG": {
@@ -35,7 +35,7 @@
       "required": false
     },
     "ABUSE": {
-      "description": "Leave it blank if you dont want Profanity in HellBot. Else Fill ON.",
+      "description": "Leave it blank if you dont want Profanity in ☠️ρøıƨøп ʙᴏᴛ☠️. Else Fill ON.",
       "value": "ON",
       "required": false
     },
